@@ -1,0 +1,28 @@
+{
+  "name": "discord-server-relationships",
+  "version": "1.0.0",
+  "description": "find people you know from other servers on an arbitrary discord server",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"lmao no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barzamin/discord-server-relationships.git"
+  },
+  "keywords": [
+    "discord",
+    "analytics",
+    "data-mining"
+  ],
+  "author": "Erin <sylphofelectricity@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barzamin/discord-server-relationships/issues"
+  },
+  "homepage": "https://github.com/barzamin/discord-server-relationships#readme"
+}
